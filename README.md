@@ -13,7 +13,7 @@ Hoje, com atuação como **Manager de Site Reliability Engineering (SRE)**, com 
 
 A atuação transcende a gestão tradicional, com forte envolvimento em **liderança técnica sênior**, definição de **fundações de plataforma** e condução de **decisões estruturais de alto impacto**, atuando de forma transversal entre times, domínios e produtos.
 
-O trabalho é orientado à **concepção, evolução e governança de plataformas**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos — abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais — sempre com foco em sustentabilidade técnica e organizacional.
+O trabalho é orientado à **concepção, evolução e governança de plataformas**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em sustentabilidade técnica e organizacional.
 
 Essa proximidade com liderança de engenharia e times técnicos permite **traduzir objetivos de negócio em soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
 
