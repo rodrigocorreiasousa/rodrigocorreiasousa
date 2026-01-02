@@ -9,7 +9,7 @@
 
 ## 👋 Sobre
 
-Atuo atualmente como **Manager de Site Reliability Engineering (SRE)**, com participação direta em **decisões arquiteturais, desenho de plataformas e liderança técnica** em contextos de **alta criticidade, complexidade e escala**.
+Hoje, com atuação como **Manager de Site Reliability Engineering (SRE)**, com participação direta em **decisões arquiteturais, desenho de plataformas e liderança técnica** em contextos de **alta criticidade, complexidade e escala**.
 
 A atuação transcende a gestão tradicional, com forte envolvimento em **liderança técnica sênior**, definição de **fundações de plataforma** e condução de **decisões estruturais de alto impacto**, atuando de forma transversal entre times, domínios e produtos.
 
