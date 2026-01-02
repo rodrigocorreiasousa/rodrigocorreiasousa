@@ -9,11 +9,11 @@
 
 ## 👋 Sobre
 
-Hoje, com atuação como **Manager de Site Reliability Engineering (SRE)**, com participação direta em **decisões arquiteturais, desenho de plataformas e liderança técnica** em contextos de **alta criticidade, complexidade e escala**.
+Hoje, com atuação como **Manager de Site Reliability Engineering (SRE)**, com participação direta em **decisões arquiteturais, liderança técnica e direcionamento de práticas de confiabilidade** em contextos de **alta criticidade, complexidade e escala**.
 
-A atuação transcende a gestão tradicional, com forte envolvimento em **liderança técnica sênior**, definição de **fundações de plataforma** e condução de **decisões estruturais de alto impacto**, atuando de forma transversal entre times, domínios e produtos.
+A **experiência acumulada ao longo da carreira** abrange atuação profunda em **SRE, DevOps e Platform Engineering**, incluindo **liderança técnica sênior**, definição de **fundações de plataforma**, automação de ambientes e condução de **decisões estruturais de alto impacto**, de forma transversal entre times, domínios e produtos.
 
-O trabalho é orientado à **concepção, evolução e governança de plataformas**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em sustentabilidade técnica e organizacional.
+Esse **histórico foi construído na concepção, evolução e governança de plataformas**, bem como na **operação e evolução de sistemas críticos**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em **sustentabilidade técnica, confiabilidade e eficiência operacional**.
 
 Essa proximidade com liderança de engenharia e times técnicos permite **traduzir objetivos de negócio em soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
 
