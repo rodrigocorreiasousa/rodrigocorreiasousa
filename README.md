@@ -1,7 +1,7 @@
 # Rodrigo Sousa
 
 <p align="center">
-  <strong>Platform Engineering • SRE • DevOps</strong><br/>
+  <strong>Platform Engineering • Site Reliability Engineering • Cloud Architecture</strong><br/>
   Arquitetura de Plataformas • Sistemas Críticos • Ambientes Distribuídos • Multi-Cloud
 </p>
 
@@ -9,19 +9,19 @@
 
 ## 👋 Sobre
 
-Hoje, com atuação como **Manager de Site Reliability Engineering (SRE)**, com participação direta em **decisões arquiteturais, liderança técnica e direcionamento de práticas de confiabilidade** em contextos de **alta criticidade, complexidade e escala**.
+Hoje, atuo como **Manager de Site Reliability Engineering (SRE)**, com **mais de 18 anos de experiência** em engenharia de software, infraestrutura e plataformas, participando diretamente de **decisões arquiteturais**, **liderança técnica** e **direcionamento de práticas de confiabilidade** em contextos de **alta criticidade, complexidade e escala**.
 
-A **experiência acumulada ao longo da carreira** abrange atuação profunda em **SRE, DevOps e Platform Engineering**, incluindo **liderança técnica sênior**, definição de **fundações de plataforma**, automação de ambientes e condução de **decisões estruturais de alto impacto**, de forma transversal entre times, domínios e produtos.
+Ao longo dessa trajetória, construí atuação sólida em **SRE, DevOps e Platform Engineering**, combinando **profundidade técnica** com **responsabilidade sistêmica**, definição de **fundações de plataforma**, automação de ambientes e condução de **decisões estruturais de alto impacto**, de forma transversal entre times, domínios e produtos.
 
-Esse **histórico foi construído na concepção, evolução e governança de plataformas**, bem como na **operação e evolução de sistemas críticos**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em **sustentabilidade técnica, confiabilidade e eficiência operacional**.
+Esse histórico foi construído na **concepção, evolução e governança de plataformas**, bem como na **operação e evolução de sistemas críticos**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em **sustentabilidade técnica, confiabilidade e eficiência operacional**.
 
-Essa proximidade com liderança de engenharia e times técnicos permite **traduzir objetivos de negócio em soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
+Ao longo dessa jornada, atuei como **referência técnica** e influenciei decisões que impactaram **múltiplos produtos, plataformas e domínios organizacionais**, traduzindo objetivos de negócio em **soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
 
 ---
 
 ## 🧠 Escopo Profissional
 
-Arquitetura e evolução de plataformas para **sistemas críticos e distribuídos**, em ambientes que demandam **confiabilidade, escala, governança e previsibilidade operacional**.
+Arquitetura e evolução de plataformas para **sistemas críticos e distribuídos**, com **impacto transversal em múltiplos times e produtos**, sustentadas por **mais de 18 anos de experiência** em ambientes que demandam **confiabilidade, escala, governança e previsibilidade operacional**.
 
 Principais frentes de atuação:
 - Arquitetura de plataformas cloud e multi-cloud
