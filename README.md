@@ -56,11 +56,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img src="https://img.shields.io/badge/CNCF-Kubestronaut-6F42C1?logo=kubernetes&logoColor=white"/>
 </p>
 
-
-<p align="center"> <img src="https://images.credly.com/size/220x220/images/fee21032-4ea9-48f2-b037-dbeaacd374c9.png" width="80" alt="CKA"/> <img src="https://images.credly.com/size/220x220/images/aa392a90-0364-419f-a129-d744dcdb9f73.png" width="80" alt="CKAD"/> <img src="https://images.credly.com/size/220x220/images/a0b1c938-1ea3-482e-8b71-b9ab25a7f50d.png" width="80" alt="CKS"/> </p> <p align="center"> <img src="https://images.credly.com/size/220x220/images/fe1f82dd-d262-4a30-af66-9ff16f3cd0c0.png" width="80" alt="KCNA"/> <img src="https://images.credly.com/size/220x220/images/3f9e0675-ea4c-4034-8aba-78d05ac72c6c.png" width="80" alt="KCSA"/> <img src="https://images.credly.com/size/220x220/images/51773817-0599-49ac-b250-92bdb8266fcf.png" width="80" alt="Kubestronaut"/> </p>
-
 ---
-
 ## 🛠️ Ferramentas e Tecnologias
 
 <p>
