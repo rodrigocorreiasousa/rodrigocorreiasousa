@@ -221,9 +221,9 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 ## 📫 Contato
 
   <a href="https://www.linkedin.com/in/rodrigo-sousa/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rodrigocorreiasousa@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/>
   </a>
