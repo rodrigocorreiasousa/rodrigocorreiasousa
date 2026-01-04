@@ -82,8 +82,8 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
         <br />
         <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
       </td>
-      <td width="50"></td>
-      <td align="center">
+      <td width="50" border="0"></td>
+      <td align="center" border="0">
         <img src="https://cdn.simpleicons.org/suse/0C322C"
              alt="SUSE Certified"
              height="40" />
@@ -93,6 +93,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
     </tr>
   </table>
 </div>
+
 
 ---
 ## 🛠️ Ferramentas e Tecnologias
