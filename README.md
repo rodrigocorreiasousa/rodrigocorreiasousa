@@ -73,9 +73,9 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 
 <!-- Linha 4: LPI + SUSE (centralizado, com texto abaixo de cada logo) -->
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center">
+      <td align="center" border="0">
         <img src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
              alt="Linux Professional Institute"
              height="40" />
