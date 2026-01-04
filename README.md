@@ -162,7 +162,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img src="https://www.vectorlogo.zone/logos/corednsio/corednsio-icon.svg" title="CoreDNS" alt="CoreDNS" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" title="Cilium" alt="Cilium" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/cni/icon/color/cni-icon-color.svg" title="Cni" alt="Cni" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/calico.svg" title="Calico" alt="Calico" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/hosted_logos/project-calico.svg" title="Calico" alt="Calico" width="30" height="30"/>
    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" title="Cloudflare" alt="Cloudflare" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/containerdio/containerdio-icon.svg" title="containerd" alt="containerd" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/rook/icon/color/rook-icon-color.svg" title="Rook" alt="Rook" width="30" height="30"/>
