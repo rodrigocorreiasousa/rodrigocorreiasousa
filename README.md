@@ -126,7 +126,23 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   </tr>
 </table>
 
-
+<!-- Linux & Enterprise (lado a lado + texto centralizado embaixo) -->
+<div align="center">
+  <table role="presentation" style="border: none; border-collapse: collapse; border-spacing: 0;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 0 28px;">
+        <img src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300" alt="Linux Professional Institute" height="42" />
+        <br />
+        <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
+      </td>
+      <td align="center" style="border: none; padding: 0 28px;">
+        <img src="https://cdn.simpleicons.org/suse/0C322C" alt="SUSE Certified" height="42" />
+        <br />
+        <strong>SUSE Certified</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
