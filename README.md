@@ -43,7 +43,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://raw.githubusercontent.com/cncf/artwork/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
     alt="Kubestronaut"
-    height="130"
+    height="150"
   />
 </p>
 
@@ -52,13 +52,13 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://raw.githubusercontent.com/cncf/artwork/main/other/kcna/color/kubernetes-kcna-color.svg"
     alt="KCNA – Kubernetes and Cloud Native Associate"
-    height="95"
+    height="120"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
     alt="KCSA – Kubernetes and Cloud Native Security Associate"
-    height="95"
+    height="120"
   />
 </p>
 
@@ -67,19 +67,19 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
     alt="CKA – Certified Kubernetes Administrator"
-    height="95"
+    height="120"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
     alt="CKAD – Certified Kubernetes Application Developer"
-    height="95"
+    height="120"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
     alt="CKS – Certified Kubernetes Security Specialist"
-    height="95"
+    height="120"
   />
 </p>
 
@@ -88,13 +88,13 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
     alt="Linux Professional Institute"
-    height="42"
+    height="60"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.simpleicons.org/suse/0C322C"
     alt="SUSE Certified"
-    height="42"
+    height="60"
   />
   <br />
   <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
