@@ -42,33 +42,33 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 <p align="center">
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
        alt="Kubestronaut"
-       height="100" />
+       height="120" />
 </p>
 
 <!-- Linha 2: KCNA + KCSA -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kcna/color/kubernetes-kcna-color.svg"
        alt="KCNA – Kubernetes and Cloud Native Associate"
-       height="90" />
+       height="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
        alt="KCSA – Kubernetes and Cloud Native Security Associate"
-       height="90" />
+       height="100" />
 </p>
 
 <!-- Linha 3: CKA / CKAD / CKS -->
 <p align="center">
   <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
        alt="CKA – Certified Kubernetes Administrator"
-       height="90" />
+       height="100" />
   &nbsp;&nbsp;
   <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
        alt="CKAD – Certified Kubernetes Application Developer"
-       height="90" />
+       height="100" />
   &nbsp;&nbsp;
   <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
        alt="CKS – Certified Kubernetes Security Specialist"
-       height="90" />
+       height="100" />
 </p>
 
 <!-- Linha 4: LPI + SUSE (centralizado, com texto abaixo de cada logo) -->
