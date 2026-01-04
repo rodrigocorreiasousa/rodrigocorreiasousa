@@ -114,7 +114,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 ## 🛠️ Ferramentas e Tecnologias
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Aws" alt="Aws" width="40" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Aws" alt="Aws" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="OpenShift" alt="OpenShift" width="40" height="40"/>
