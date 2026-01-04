@@ -38,62 +38,77 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 
 ## 🏅 Certificações
 
-<!-- Linha 1: Kubestronaut + CNCF -->
+<!-- Linha 1: Kubestronaut (nível máximo) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
-       alt="Kubestronaut"
-       height="120" />
+  <img
+    src="https://raw.githubusercontent.com/cncf/artwork/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
+    alt="Kubestronaut"
+    height="130"
+  />
 </p>
 
-<!-- Linha 2: KCNA + KCSA -->
+<!-- Linha 2: CNCF Associate -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kcna/color/kubernetes-kcna-color.svg"
-       alt="KCNA – Kubernetes and Cloud Native Associate"
-       height="100" />
+  <img
+    src="https://raw.githubusercontent.com/cncf/artwork/main/other/kcna/color/kubernetes-kcna-color.svg"
+    alt="KCNA – Kubernetes and Cloud Native Associate"
+    height="95"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
+    alt="KCSA – Kubernetes and Cloud Native Security Associate"
+    height="95"
+  />
+</p>
+
+<!-- Linha 3: Kubernetes Professional Track -->
+<p align="center">
+  <img
+    src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
+    alt="CKA – Certified Kubernetes Administrator"
+    height="95"
+  />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
-       alt="KCSA – Kubernetes and Cloud Native Security Associate"
-       height="100" />
+  <img
+    src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
+    alt="CKAD – Certified Kubernetes Application Developer"
+    height="95"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
+    alt="CKS – Certified Kubernetes Security Specialist"
+    height="95"
+  />
 </p>
 
-<!-- Linha 3: CKA / CKAD / CKS -->
-<p align="center">
-  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
-       alt="CKA – Certified Kubernetes Administrator"
-       height="100" />
-  &nbsp;&nbsp;
-  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
-       alt="CKAD – Certified Kubernetes Application Developer"
-       height="100" />
-  &nbsp;&nbsp;
-  <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
-       alt="CKS – Certified Kubernetes Security Specialist"
-       height="100" />
-</p>
-
-<!-- Linha 4: LPI + SUSE (centralizado, com texto abaixo de cada logo) -->
+<!-- Linha 4: Linux & Enterprise -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="6">
     <tr>
-      <td align="center" border="0">
-        <img src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
-             alt="Linux Professional Institute"
-             height="40" />
+      <td align="center">
+        <img
+          src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
+          alt="Linux Professional Institute"
+          height="42"
+        />
         <br />
         <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
       </td>
-      <td width="50" border="0"></td>
-      <td align="center" border="0">
-        <img src="https://cdn.simpleicons.org/suse/0C322C"
-             alt="SUSE Certified"
-             height="40" />
+      <td width="60"></td>
+      <td align="center">
+        <img
+          src="https://cdn.simpleicons.org/suse/0C322C"
+          alt="SUSE Certified"
+          height="42"
+        />
         <br />
         <strong>SUSE Certified</strong>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 ## 🛠️ Ferramentas e Tecnologias
@@ -214,9 +229,3 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <a href="mailto:rodrigocorreiasousa@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="50" height="50"/>
   </a>
-
-
-
-
-
-
