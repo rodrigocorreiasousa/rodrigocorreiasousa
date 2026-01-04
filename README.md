@@ -94,6 +94,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
     <br />
     <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
   </span>
+  
   <span style="display:inline-block; text-align:center;">
     <img
       src="https://cdn.simpleicons.org/suse/0C322C"
