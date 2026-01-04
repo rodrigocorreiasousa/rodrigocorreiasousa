@@ -138,7 +138,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/dex/icon/color/dex-icon-color.svg" title="Dex" alt="Dex" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/etcd/icon/color/etcd-icon-color.svg" title="Etcd" alt="Etcd" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/external-secrets-operator/icon/color/eso-icon-color.svg" title="External Secrets Operator" alt="External Secrets Operator" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/karpenter.svg" title="Karpenter" alt="Karpenter" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/hosted_logos/karpenter.svg" title="Karpenter" alt="Karpenter" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" alt="Terraform" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/rundeck/rundeck-icon.svg" title="Rundeck" alt="Rundeck" width="30" height="30"/>
