@@ -114,7 +114,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 ## 🛠️ Ferramentas e Tecnologias
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Aws" alt="Aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Aws" alt="Aws" width="40" height="20"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="OpenShift" alt="OpenShift" width="40" height="40"/>
@@ -165,7 +165,6 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/calico.svg" title="Calico" alt="Calico" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/containerdio/containerdio-icon.svg" title="containerd" alt="containerd" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cri-oio/cri-oio-icon.svg" title="CRI-O" alt="CRI-O" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/rook/icon/color/rook-icon-color.svg" title="Rook" alt="Rook" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" title="Ceph" alt="Ceph" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/openebs/icon/color/openebs-icon-color.svg" title="OpenEBS" alt="OpenEBS" width="40" height="40"/>
@@ -212,7 +211,6 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" title="K6" alt="K6" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/codefreshio/codefreshio-icon.svg" title="Code Fresh" alt="Code Fresh" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" title="Bamboo" alt="Bamboo" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
