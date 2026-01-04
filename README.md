@@ -88,13 +88,13 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
     alt="Linux Professional Institute"
-    height="60"
+    height="80"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.simpleicons.org/suse/0C322C"
     alt="SUSE Certified"
-    height="60"
+    height="80"
   />
   <br />
   <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
