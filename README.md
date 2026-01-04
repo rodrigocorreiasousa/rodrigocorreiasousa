@@ -88,43 +88,19 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <img
     src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
     alt="Linux Professional Institute"
-    height="80"
+    height="90"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://cdn.simpleicons.org/suse/0C322C"
     alt="SUSE Certified"
-    height="80"
+    height="90"
   />
   <br />
   <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>SUSE Certified</strong>
 </p>
-
-<!-- Linha 4: Linux & Enterprise (alinhamento perfeito) -->
-<table align="center" style="border:none;">
-  <tr style="border:none;">
-    <td align="center" style="border:none; padding: 0 30px;">
-      <img
-        src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
-        alt="Linux Professional Institute"
-        height="60"
-      />
-      <br />
-      <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
-    </td>
-    <td align="center" style="border:none; padding: 0 30px;">
-      <img
-        src="https://cdn.simpleicons.org/suse/0C322C"
-        alt="SUSE Certified"
-        height="60"
-      />
-      <br />
-      <strong>SUSE Certified</strong>
-    </td>
-  </tr>
-</table>
 
 ---
 ## 🛠️ Ferramentas e Tecnologias
