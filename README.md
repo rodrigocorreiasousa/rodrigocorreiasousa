@@ -38,23 +38,62 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 
 ## 🏅 Certificações
 
+<!-- Linha 1: Kubestronaut + CNCF -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-CKAD-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-CKS-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNCF-KCNA-00AEEF?logo=cncf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNCF-KCSA-00AEEF?logo=cncf&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
+       alt="Kubestronaut"
+       height="90" />
 </p>
 
+<!-- Linha 2: KCNA + KCSA -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-LPI%201-FCC624?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-LPI%202-FCC624?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SUSE-Certified-0C322C?logo=suse&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/kcna/color/kubernetes-kcna-color.svg"
+       alt="KCNA – Kubernetes and Cloud Native Associate"
+       height="70" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
+       alt="KCSA – Kubernetes and Cloud Native Security Associate"
+       height="70" />
 </p>
 
+<!-- Linha 3: CKA / CKAD / CKS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CNCF-Kubestronaut-6F42C1?logo=kubernetes&logoColor=white"/>
+  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
+       alt="CKA – Certified Kubernetes Administrator"
+       height="70" />
+  &nbsp;&nbsp;
+  <img src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
+       alt="CKAD – Certified Kubernetes Application Developer"
+       height="70" />
+  &nbsp;&nbsp;
+  <img src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
+       alt="CKS – Certified Kubernetes Security Specialist"
+       height="70" />
 </p>
+
+---
+<!-- Linha 4: LPI + SUSE (centralizado, com texto abaixo de cada logo) -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
+             alt="Linux Professional Institute"
+             height="60" />
+        <br />
+        <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
+      </td>
+      <td width="50"></td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/suse/0C322C"
+             alt="SUSE Certified"
+             height="60" />
+        <br />
+        <strong>SUSE Certified</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 🛠️ Ferramentas e Tecnologias
@@ -175,3 +214,9 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <a href="mailto:rodrigocorreiasousa@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="50" height="50"/>
   </a>
+
+
+
+
+
+
