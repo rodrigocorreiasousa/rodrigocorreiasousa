@@ -17,6 +17,8 @@ Esse histórico foi construído na **concepção, evolução e governança de pl
 
 Ao longo dessa jornada, atuei como **referência técnica** e influenciei decisões que impactaram **múltiplos produtos, plataformas e domínios organizacionais**, traduzindo objetivos de negócio em **soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
 
+Grande parte desse impacto foi exercida por meio de **influência técnica sem autoridade formal direta**, conduzindo **decisões de longo prazo** que redefiniram plataformas, modelos operacionais e padrões organizacionais com **efeitos sustentáveis ao longo do tempo**.
+
 ---
 
 ## 🧠 Escopo Profissional
