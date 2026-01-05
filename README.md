@@ -102,6 +102,105 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
   <strong>SUSE Certified</strong>
 </p>
 
+## 🏅 Certificações
+
+<!-- Kubestronaut (nível máximo) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/cncf/artwork/main/other/kubestronaut/stacked/color/kubestronaut-stacked-color.svg"
+    alt="Kubestronaut"
+    height="170"
+  />
+</p>
+
+<br />
+
+<!-- CNCF Associate -->
+<table align="center" border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/cncf/artwork/main/other/kcna/color/kubernetes-kcna-color.svg"
+        alt="KCNA"
+        height="120"
+      />
+      <br />
+      <strong>KCNA</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
+        alt="KCSA"
+        height="120"
+      />
+      <br />
+      <strong>KCSA</strong>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Kubernetes Professional -->
+<table align="center" border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <img
+        src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
+        alt="CKA"
+        height="120"
+      />
+      <br />
+      <strong>CKA</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
+        alt="CKAD"
+        height="120"
+      />
+      <br />
+      <strong>CKAD</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
+        alt="CKS"
+        height="120"
+      />
+      <br />
+      <strong>CKS</strong>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Linux & Enterprise -->
+<table align="center" border="0" cellspacing="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <img
+        src="https://cdn.simpleicons.org/linuxprofessionalinstitute/F2C300"
+        alt="Linux Professional Institute"
+        height="60"
+      />
+      <br />
+      <strong>LPIC-1</strong> • <strong>LPIC-2</strong>
+    </td>
+    <td align="center">
+      <img
+        src="https://cdn.simpleicons.org/suse/0C322C"
+        alt="SUSE Certified"
+        height="60"
+      />
+      <br />
+      <strong>SUSE Certified</strong>
+    </td>
+  </tr>
+</table>
+
+
 ---
 ## 🛠️ Ferramentas e Tecnologias
 
