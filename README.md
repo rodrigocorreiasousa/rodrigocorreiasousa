@@ -122,7 +122,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <img
         src="https://raw.githubusercontent.com/cncf/artwork/main/other/kcna/color/kubernetes-kcna-color.svg"
         alt="KCNA"
-        height="120"
+        height="170"
       />
       <br />
       <strong>KCNA</strong>
@@ -131,7 +131,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <img
         src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
         alt="KCSA"
-        height="120"
+        height="170"
       />
       <br />
       <strong>KCSA</strong>
@@ -148,7 +148,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <img
         src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-cka-color.svg"
         alt="CKA"
-        height="120"
+        height="170"
       />
       <br />
       <strong>CKA</strong>
@@ -157,7 +157,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <img
         src="https://www.cncf.io/wp-content/uploads/2021/09/kubernetes-ckad-color.svg"
         alt="CKAD"
-        height="120"
+        height="170"
       />
       <br />
       <strong>CKAD</strong>
@@ -166,7 +166,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <img
         src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
         alt="CKS"
-        height="120"
+        height="170"
       />
       <br />
       <strong>CKS</strong>
