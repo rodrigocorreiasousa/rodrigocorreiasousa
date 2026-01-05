@@ -50,9 +50,9 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
 <br />
 
 <!-- CNCF Associate -->
-<table align="center" border="0" cellspacing="0" cellpadding="16">
+<table align="center" border="0" cellspacing="0" cellpadding="16" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img
         src="https://raw.githubusercontent.com/cncf/artwork/main/other/kcna/color/kubernetes-kcna-color.svg"
         alt="KCNA"
@@ -62,7 +62,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
       <br />
       <strong>KCNA</strong>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img
         src="https://www.cncf.io/wp-content/uploads/2024/03/kubernetes-kcsa-color.svg"
         alt="KCSA"
@@ -138,7 +138,6 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
     </td>
   </tr>
 </table>
-
 
 ---
 ## 🛠️ Ferramentas e Tecnologias
