@@ -9,15 +9,11 @@
 
 ## 👋 Sobre
 
-Hoje, atuo como **Manager de Site Reliability Engineering (SRE)**, com **mais de 18 anos de experiência** em engenharia de software, infraestrutura e plataformas, participando diretamente de **decisões arquiteturais**, **liderança técnica** e **direcionamento de práticas de confiabilidade** em contextos de **alta criticidade, complexidade e escala**.
+Atuo como **Manager de Site Reliability Engineering (SRE)**, com **mais de 18 anos de experiência** em engenharia de software, infraestrutura e plataformas, participando diretamente de **decisões arquiteturais**, **liderança técnica** e **direcionamento de práticas de confiabilidade** em contextos de **alta criticidade, complexidade e escala**.
 
-Ao longo dessa trajetória, construí atuação sólida em **SRE, DevOps e Platform Engineering**, combinando **profundidade técnica** com **responsabilidade sistêmica**, definição de **fundações de plataforma**, automação de ambientes e condução de **decisões estruturais de alto impacto**, de forma transversal entre times, domínios e produtos.
+Minha trajetória é marcada pela atuação em **SRE, DevOps e Platform Engineering**, combinando **profundidade técnica** com **responsabilidade sistêmica** na **concepção, evolução e governança de plataformas e sistemas críticos**. Ao longo desse caminho, influenciei decisões com impacto transversal em **múltiplos produtos, times e domínios organizacionais**, sempre equilibrando **resiliência, custo, governança e eficiência operacional**.
 
-Esse histórico foi construído na **concepção, evolução e governança de plataformas**, bem como na **operação e evolução de sistemas críticos**, considerando todo o ecossistema de **cloud providers** e ambientes distribuídos abrangendo infraestrutura, identidade, segurança, automação, observabilidade e modelos operacionais sempre com foco em **sustentabilidade técnica, confiabilidade e eficiência operacional**.
-
-Ao longo dessa jornada, atuei como **referência técnica** e influenciei decisões que impactaram **múltiplos produtos, plataformas e domínios organizacionais**, traduzindo objetivos de negócio em **soluções arquiteturais sólidas**, equilibrando **resiliência, custo, governança e velocidade de entrega**.
-
-Grande parte desse impacto foi exercida por meio de **influência técnica sem autoridade formal direta**, conduzindo **decisões de longo prazo** que redefiniram plataformas, modelos operacionais e padrões organizacionais com **efeitos sustentáveis ao longo do tempo**.
+Grande parte desse impacto foi exercida por meio de **influência técnica sem autoridade formal direta**, conduzindo **decisões de longo prazo** que redefiniram plataformas, modelos operacionais e padrões organizacionais, com **efeitos sustentáveis ao longo do tempo**.
 
 ---
 
