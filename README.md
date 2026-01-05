@@ -1,5 +1,7 @@
 # Rodrigo Sousa
 
+English version: [README.en.md](./README.en.md)
+
 <p align="center">
   <strong>Platform Engineering • Site Reliability Engineering • Cloud Architecture</strong><br/>
   Arquitetura de Plataformas • Sistemas Críticos • Ambientes Distribuídos • Multi-Cloud
