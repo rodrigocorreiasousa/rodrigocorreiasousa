@@ -30,8 +30,6 @@ Principais frentes de atuação:
 - Decisões arquiteturais orientadas a resiliência, escala e custo
 - Evolução de modelos operacionais para ambientes regulados
 
-O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidade, complexidade e risco ao longo do tempo por meio de **plataformas bem definidas, confiáveis e sustentáveis**, com impacto consistente no longo prazo.
-
 ---
 
 ## 🏅 Certificações
