@@ -167,6 +167,7 @@ O objetivo central é **habilitar engenharia em escala**, reduzindo variabilidad
         src="https://www.cncf.io/wp-content/uploads/2020/11/kubernetes-security-specialist-logo.svg"
         alt="CKS"
         height="170"
+        width="170"
       />
       <br />
       <strong>CKS</strong>
